@@ -1,3 +1,6 @@
+## Setup Instructions
+
+```bash
 git clone https://github.com/Siddhubn/AI-Interview/
 cd AI-Interview
 .venv\Scripts\activate
